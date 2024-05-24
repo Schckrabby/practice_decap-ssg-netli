@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: username/reponame
+  repo: Schckrabby/decap-ssg-netli
   branch: main
 local_backend: true
 media_folder: src/assets/img
