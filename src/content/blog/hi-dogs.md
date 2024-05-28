@@ -22,6 +22,10 @@ Mountains have a way of making us feel both small and empowered at the same time
 
 Last summer, I embarked on a hiking trip to the Rocky Mountains. The crisp air, the stunning vistas, and the sense of accomplishment upon reaching the summit were unparalleled. Here's a glimpse of what I saw:
 
+
+
+![](src/assets/img/speed.png)
+
 ## The Forests
 
 ### A Walk Among the Trees
