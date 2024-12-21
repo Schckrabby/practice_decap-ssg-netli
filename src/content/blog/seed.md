@@ -1,8 +1,6 @@
 ---
-title: seed
-pubDatetime: 2023-12-01T03:21:44.941Z
+pubDatetime: 2024-12-21
+title: Seed title hello
 ogImage: /src/assets/img/speed.png
-description: seed content
 ---
-
 Hello World
