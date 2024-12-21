@@ -1,6 +1,7 @@
 ---
 pubDatetime: 2024-12-28
-title: Blog post example from Y.
+title: "Blog post example from Y. "
+showInMenu: true
 ogImage: src/assets/img/screenshot-141-.png
 ---
 # Exploring the Beauty of Nature: A Journey into the Wild
