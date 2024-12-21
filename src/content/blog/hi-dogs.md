@@ -1,8 +1,7 @@
 ---
+pubDatetime: 2024-12-28
 title: Blog post example from Y.
-date: 2024-05-24T03:07:00.000Z
 ogImage: src/assets/img/screenshot-141-.png
-description: description here goes
 ---
 # Exploring the Beauty of Nature: A Journey into the Wild
 
@@ -21,8 +20,6 @@ Mountains have a way of making us feel both small and empowered at the same time
 #### My Experience
 
 Last summer, I embarked on a hiking trip to the Rocky Mountains. The crisp air, the stunning vistas, and the sense of accomplishment upon reaching the summit were unparalleled. Here's a glimpse of what I saw:
-
-
 
 ![](src/assets/img/speed.png)
 
