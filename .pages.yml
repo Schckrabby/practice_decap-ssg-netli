@@ -4,6 +4,7 @@ media:
 content:
   - name: posts
     label: Posts
+    icon: candy
     type: collection
     path: src/content/blog
     view:
